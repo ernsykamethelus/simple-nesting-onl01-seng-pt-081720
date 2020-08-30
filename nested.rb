@@ -81,7 +81,7 @@ def adding_to_dennis
      }
       programmer_hash[:dennis_ritchie] = {}
 programmer_hash.include?("Assembly")
-
+programmer_hash
 end
 
   
