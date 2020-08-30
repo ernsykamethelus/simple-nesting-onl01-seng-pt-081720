@@ -68,7 +68,7 @@ def changing_alan
 		 programmer_hash[:alan_kay][:known_for] = alan_kay_is_known_for
 
 
-		 return programmer_hash
+		 return alan_kay_is_known_for
   
 end
 
