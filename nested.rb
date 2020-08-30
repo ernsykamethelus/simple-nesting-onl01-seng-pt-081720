@@ -56,7 +56,7 @@ end
 
 
 def changing_alan
-  alans_new_info = "GUI"
+  alan_kay_is_known_for = "GUI"
 	programmer_hash =
  		{
         :grace_hopper => {
@@ -65,7 +65,7 @@ def changing_alan
         }
      }
 
-		 programmer_hash[:alan_kay][:known_for] = alans_new_info
+		 programmer_hash[:alan_kay][:known_for] = alan_kay_is_known_for
 
 
 		 return programmer_hash
