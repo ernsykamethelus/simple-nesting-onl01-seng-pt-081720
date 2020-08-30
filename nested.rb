@@ -79,6 +79,7 @@ def adding_to_dennis
           :known_for => "COBOL",
         }
      }
+      programmer_hash[:dennis_ritchie] = {}
 programmer_hash[:dennis_ritchie][:languages] << "Assembly"
 
 end
