@@ -56,7 +56,7 @@ end
 
 
 def changing_alan
-	programmer_hash[:alan_kay] =
+	programmer_hash =
  		{
         :grace_hopper => {
           :known_for => "COBOL",
