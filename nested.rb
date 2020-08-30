@@ -63,9 +63,9 @@ def changing_alan
           :languages => ["C"]
         }
      }
-programmer_hash[:alan_kay] = {}
+     programmer_hash[:alan_kay] = {}
 		 programmer_hash[:alan_kay][:known_for] = alan_kay_is_known_for
-		 return alan_kay_is_known_for
+		programmer_hash
   
 end
 
