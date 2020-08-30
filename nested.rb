@@ -66,8 +66,6 @@ def changing_alan
      }
 alan_kay_is_known_for = "GUI"
 		 programmer_hash[:alan_kay][:known_for] = alan_kay_is_known_for
-
-
 		 return alan_kay_is_known_for
   
 end
