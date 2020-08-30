@@ -77,6 +77,7 @@ def adding_to_dennis
  		{
         :grace_hopper => {
           :known_for => "COBOL",
+          :languages => "Assembly"
         }
      }
       programmer_hash[:dennis_ritchie] = {}
